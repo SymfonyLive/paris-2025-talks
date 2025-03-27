@@ -11,9 +11,9 @@
 
 ---
 
-## Keynote
+## Keynote · Symfony in 2025: Scaling to 0
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/symfony-in-2025-scaling-to-0)  
 ~~Video~~  
 ~~Blog post~~
 
