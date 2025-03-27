@@ -7,6 +7,7 @@
 > - All talks are in **French**.
 > - You can send feedback and love to speakers on their social networks.
 > - Social posts during the event: [Bluesky](https://bsky.app/search?q=%23symfony_live+since%3A2025-03-26+until%3A2025-03-30) · [Mastodon](https://mastodon.social/tags/symfony_live) · [Twitter](https://x.com/search?q=(%23symfony_live%20OR%20%40symfonylive)%20until%3A2025-03-30%20since%3A2025-03-26%20-filter%3Areplies&f=live)
+> - [Photos during the event](https://pixi.live/gallery/symfonylive-paris-2025)
 
 ---
 
