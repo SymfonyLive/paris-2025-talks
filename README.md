@@ -35,9 +35,10 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 Après avoir parcouru l'historique de quelques années de discussion et de recherches de la communauté Symfony autour de ce domaine, nous allons étudier les besoins d'un tel composant dans Symfony. Nous analyserons en quoi il est différent du Serializer de Symfony, et quelles sont les solutions offertes par les frameworks populaires sur le Web. Enfin, nous présenterons le nouveau composant Mapper que j'ai proposé et ses différents usages entre la conception de l'API jusqu'aux cas d'utilisation quotidiens.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/soyuka/symfony-mapper-component)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[Pull Request of `symfony/object-mapper`](https://github.com/symfony/symfony/pull/51741) <sup>Merged 🎉</sup>
 
 By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
 💻 on [![github](icon/github.svg) @soyuka](https://github.com/soyuka)  <sup>[💚](https://github.com/sponsors/soyuka)</sup>  
