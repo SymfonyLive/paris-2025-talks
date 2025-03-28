@@ -221,9 +221,10 @@ By [Laura Durieux](https://connect.symfony.com/profile/wjohannes)
   Et si notre site est une SPA, pouvons nous tirer parti de ces composant pour rafraîchir notre application avec seulement 3 lignes de code JS ? Venez le découvrir !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lyrixx/async-avec-messenger-et-mercure-15dc6d8a-1195-4199-ba2c-07f0dd7157d5)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[Demo repository](https://github.com/lyrixx/async-messenger-mercure)
 
 By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)  
 💻 on [![github](icon/github.svg) @lyrixx](https://github.com/lyrixx)  <sup>[💚](https://github.com/sponsors/lyrixx)</sup>  
