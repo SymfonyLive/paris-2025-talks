@@ -57,9 +57,10 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
   <dd>Postgres est connu pour ses capacités SQL. Mais en fait, Postgres est aussi très capable de gérer du JSON. Je vais expliquer comment utiliser les fonctions JSON des versions récentes de Postgres pour gérer vos données moins structurées. Je vais aussi montrer l'utilisation des fonctionnalités JSON depuis Doctrine.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://davidbu.ch/slides/2025-03-27-symfony-live-paris-postgres-json.html#1)  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://davidbu.ch/mann/blog/2025-03-27/symfony-live-paris-postgres-json/)  
+[Exemples and measures: postgres](https://github.com/dbu/postgres-json) / [MySQL](https://github.com/dbu/postgres-json/pull/2)
 
 By [David Buchmann](https://connect.symfony.com/profile/dbu)  
 💻 on [![github](icon/github.svg) @dbu](https://github.com/dbu)  
