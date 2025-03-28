@@ -242,9 +242,10 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
   <dd>Refactoring isn’t just about code. Reflect on your mindset and personal growth to evolve as a developer, just like you refactor legacy code.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jolicode.github.io/htmx-conf/)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[Demo repository](https://github.com/jolicode/symfony-htmx-demo)
 
 By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)  
 💻 on [![github](icon/github.svg) @damienalexandre](https://github.com/damienalexandre)  
