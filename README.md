@@ -132,7 +132,7 @@ _✍ blog not found_
   Découvrez comment les implémenter dans votre base de code, mais aussi des exemples d'outils à mettre en place dans votre CI et votre monitoring afin d'être sûr de ne pas avoir de raté.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/florianbogey/sf-live-roles-permissions)
 ~~Video~~  
 ~~Blog post~~
 
