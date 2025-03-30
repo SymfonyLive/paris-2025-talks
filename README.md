@@ -178,7 +178,7 @@ By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)
 
 [Slides](https://speakerdeck.com/dunglas/develop-faster-with-frankenphp)  
 ~~Video~~  
-[Blog post](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/)  
+[Blog post](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
 💻 on [![github](icon/github.svg) @dunglas](https://github.com/dunglas)  <sup>[💚](https://github.com/sponsors/dunglas)</sup>  
