@@ -311,7 +311,7 @@ _✍ blog not found_
   Dans cette présentation nous verrons à travers une session de refactoring comment l'utilisation de Messenger peut avant tout être bénéfique à l'architecture et au découplage de nos applications.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/tucksaun/tirez-profit-de-messenger-pour-ameliorer-votre-architecture)  
 ~~Video~~  
 ~~Blog post~~
 
