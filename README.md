@@ -201,7 +201,7 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 ~~Video~~  
 ~~Blog post~~
 
-By [Laura Durieux](https://connect.symfony.com/profile/wjohannes)  
+By [Laura Durieux](https://connect.symfony.com/profile/devgirl_)  
 💻 on [![github](icon/github.svg) @Lauwed](https://github.com/Lauwed)  
 💬 on [![twitter](icon/twitter.svg) @devgirl__](https://twitter.com/devgirl__)
 · [![linkedin](icon/linkedin.svg) devgirl](https://www.linkedin.com/in/devgirl)
