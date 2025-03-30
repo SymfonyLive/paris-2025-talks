@@ -176,9 +176,9 @@ By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)
   Après avoir présenté le fonctionnement du mécanisme de cache de Symfony, et comment en tirer partie dans nos applications et bundles, nous découvrirons comment utiliser les watchers et le mode worker de FrankenPHP pour que les changements apportés à notre code soient reflétés quasi-instantanément dans notre navigateur, et ainsi nous éviter la frustration des temps de chargement long en dev.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/develop-faster-with-frankenphp)  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
 💻 on [![github](icon/github.svg) @dunglas](https://github.com/dunglas)  <sup>[💚](https://github.com/sponsors/dunglas)</sup>  
