@@ -239,7 +239,7 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
 
 <dl>
   <dt>Description</dt>
-  <dd>Refactoring isn’t just about code. Reflect on your mindset and personal growth to evolve as a developer, just like you refactor legacy code.</dd>
+  <dd>Découvrez comment HTMX peut transformer votre façon de développer en apportant la puissance et la flexibilité des Single Page Applications (SPA) à vos projets Symfony, sans écrire de JavaScript !</dd>
 </dl>
 
 [Slides](https://jolicode.github.io/htmx-conf/)  
@@ -251,7 +251,6 @@ By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)
 💻 on [![github](icon/github.svg) @damienalexandre](https://github.com/damienalexandre)  
 ✍ on [damienalexandre.fr/posts](https://damienalexandre.fr/posts)  <sup>[![rss](icon/rss.svg)](https://damienalexandre.fr/latest?format=rss)</sup>  
 💬 on [![bluesky](icon/bluesky.svg) @damienalexandre.bsky.social](https://bsky.app/profile/damienalexandre.bsky.social)
-· [![twitter](icon/twitter.svg) @damienalexandre](https://twitter.com/damienalexandre)
 · [![linkedin](icon/linkedin.svg) damienalexandre](https://www.linkedin.com/in/damienalexandre)
 
 ---
