@@ -281,7 +281,9 @@ By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)
 
 ~~Slides~~  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://github.com/StevenRenaux/GotenbergBundle-Article)  
+[Code of `sensiolabs/gotenberg-bundle`](https://github.com/sensiolabs/GotenbergBundle)  
+[Demo repository](https://github.com/StevenRenaux/GotenbergBundle-Article)
 
 By [Adrien Roches](https://connect.symfony.com/profile/neirda24)  
 💻 on [![github](icon/github.svg) @Neirda24](https://github.com/Neirda24)  
