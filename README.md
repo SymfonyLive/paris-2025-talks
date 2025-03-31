@@ -208,7 +208,7 @@ By [Laura Durieux](https://connect.symfony.com/profile/devgirl_)
 
 ---
 
-## Async avec Messenger, AMQP et Mercure
+## Asynchrone avec Symfony Messenger et Mercure
 
 <dl>
   <dt>Description</dt>
@@ -218,17 +218,18 @@ By [Laura Durieux](https://connect.symfony.com/profile/devgirl_)
 
   Cependant, comment prévenir le client que son PDF est prêt ou que son import de données est fini ? Mercure nous simplifiera la tache pour notifier le client en temps réel.
 
-  Et si notre site est une SPA, pouvons nous tirer parti de ces composant pour rafraîchir notre application avec seulement 3 lignes de code JS ? Venez le découvrir !</dd>
+  Et si notre site est une SPA, pouvons nous tirer parti de ces composant pour rafraîchir notre application avec seulement 3 lignes de code JS ? Venez le découvrir !
+  </dd>
 </dl>
 
-[Slides](https://speakerdeck.com/lyrixx/async-avec-messenger-et-mercure-769be91e-3918-4c33-b231-ad6b427a38a4)  
-~~Video~~  
-~~Blog post~~  
-[Demo repository](https://github.com/lyrixx/async-messenger-mercure)
+[Slides](https://s.lyrixx.info/async)
+~~Video~~
+~~Blog post~~
+[Demo repository](https://s.lyrixx.info/async-demo)
 
-By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)  
-💻 on [![github](icon/github.svg) @lyrixx](https://github.com/lyrixx)  <sup>[💚](https://github.com/sponsors/lyrixx)</sup>  
-✍ on [🌐 jolicode.com/blog](https://jolicode.com/qui-sommes-nous/equipe/gregoire-pineau)  <sup>[![rss](icon/rss.svg)](https://jolicode.com/feed.rss)</sup>  
+By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
+💻 on [![github](icon/github.svg) @lyrixx](https://github.com/lyrixx)  <sup>[💚](https://github.com/sponsors/lyrixx)</sup>
+✍ on [🌐 jolicode.com/blog](https://jolicode.com/qui-sommes-nous/equipe/gregoire-pineau)  <sup>[![rss](icon/rss.svg)](https://jolicode.com/feed.rss)</sup>
 💬 on [![bluesky](icon/bluesky.svg) @lyrixx.bsky.social](https://bsky.app/profile/lyrixx.bsky.social)
 · [![twitter](icon/twitter.svg) @lyrixx](https://twitter.com/lyrixx)
 · [![mastodon](icon/mastodon.svg) @lyrixx@mastodon.social](https://mastodon.social/@lyrixx)
