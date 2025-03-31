@@ -83,7 +83,7 @@ By [David Buchmann](https://connect.symfony.com/profile/dbu)
   - Impact sur la sécurité et l'expérience utilisateur : vers un futur sans friction et sans compromis</dd>
 </dl>
 
-[Slides](https://github.com/rjanot/webauthn-sflive2025)  
+[Slides](https://rjanot.github.io/webauthn-sflive2025/)  
 ~~Video~~  
 ~~Blog post~~  
 [Demo repository](https://github.com/rjanot/webauthn-demo-symfony)
