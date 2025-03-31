@@ -289,7 +289,7 @@ By [Adrien Roches](https://connect.symfony.com/profile/neirda24)
 ✍ on [🌐 blog.roc-it.tech](https://blog.roc-it.tech/)  <sup>[![rss](icon/rss.svg)](https://blog.roc-it.tech/rss/)</sup>  
 💬 on [![twitter](icon/twitter.svg) @AdrienRoches](https://twitter.com/AdrienRoches)
 · [![bluesky](icon/bluesky.svg) @adrienroches.bsky.social](https://bsky.app/profile/adrienroches.bsky.social)
-· [![mastodon](icon/mastodon.svg) @neirda@phpc.social)](https://phpc.social/@neirda)
+· [![mastodon](icon/mastodon.svg) @neirda@phpc.social](https://phpc.social/@neirda)
 · [![linkedin](icon/linkedin.svg) @adrien-roches](https://linkedin.com/in/adrien-roches)
 
 And [Hubert Lenoir](https://connect.symfony.com/profile/hubert_lenoir)  
