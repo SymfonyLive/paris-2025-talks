@@ -278,7 +278,7 @@ By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)
   Viendez et découvrez comment générer des PDF’s devient désormais aussi simple que d’utiliser Twig !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jean-beru.github.io/2025_03_sflive_gotenberg)  
 ~~Video~~  
 [Blog post](https://github.com/StevenRenaux/GotenbergBundle-Article)  
 [Code of `sensiolabs/gotenberg-bundle`](https://github.com/sensiolabs/GotenbergBundle)  
