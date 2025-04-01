@@ -151,7 +151,7 @@ By [Florian Bogey](https://connect.symfony.com/profile/florianlyon)
   <dd>API Platform est l’outil de référence pour créer des APIs perfectionnées, avec une intégration fluide à Doctrine et à diverses sources de données. Mais que faire si l’on souhaite accéder à d’autres types de bases de données ou optimiser les requêtes pour des cas d’usage spécifiques ? Est-il possible de se passer de Doctrine ?</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jerome.tamarelle.net/slides/2025-03-27-SymfonyLive-Paris-2025-API_Platform_sans_Doctrine.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
