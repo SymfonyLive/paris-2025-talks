@@ -352,7 +352,7 @@ By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
 
 ---
 
-## Keynote
+## Keynote · A year of Symfony! What's New in 7.3?
 
 ~~Slides~~  
 ~~Video~~  
