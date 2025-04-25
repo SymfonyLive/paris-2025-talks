@@ -11,13 +11,13 @@
 
 #### Blog post & videos about the event
 
-- [JoliCode.com/blog](https://jolicode.com/blog/symfonylive-paris-2025-comme-si-vous-y-etiez)
-- [Les-Tilleuls.coop/blog - Day 1](https://les-tilleuls.coop/blog/le-symfonylive-paris-2025-comme-si-vous-y-etiez-jour-1) & [Day 2](https://les-tilleuls.coop/blog/le-symfonylive-paris-2025-comme-si-vous-y-etiez-jour-2)
-- [ACSEO.fr - Day 1](https://www.acseo.fr/developpement/symfonylive-paris-2025-retour-sur-une-premiere-journee-riche-en-enseignements/) & [Day 2](https://www.acseo.fr/developpement/ce-que-nous-avons-retenu-de-la-deuxieme-journee-de-conferences-du-symfonylive-paris-2025/)
-- [dev.to/SensioLabs](https://dev.to/sensiolabs/symfonylive-paris-2025-ce-quil-faut-retenir-59ia)
+- [JoliCode.com/blog](https://jolicode.com/blog/symfonylive-paris-2025-comme-si-vous-y-etiez)  <sup>[![rss](icon/rss.svg)](https://jolicode.com/feed.rss)</sup>
+- [Les-Tilleuls.coop/blog - Day 1](https://les-tilleuls.coop/blog/le-symfonylive-paris-2025-comme-si-vous-y-etiez-jour-1) & [Day 2](https://les-tilleuls.coop/blog/le-symfonylive-paris-2025-comme-si-vous-y-etiez-jour-2)  <sup>[![rss](icon/rss.svg)](https://les-tilleuls.coop/feed.xml)</sup>
+- [ACSEO.fr - Day 1](https://www.acseo.fr/developpement/symfonylive-paris-2025-retour-sur-une-premiere-journee-riche-en-enseignements/) & [Day 2](https://www.acseo.fr/developpement/ce-que-nous-avons-retenu-de-la-deuxieme-journee-de-conferences-du-symfonylive-paris-2025/)  <sup>[![rss](icon/rss.svg)](https://www.acseo.fr/feed)</sup>
+- [dev.to/SensioLabs](https://dev.to/sensiolabs/symfonylive-paris-2025-ce-quil-faut-retenir-59ia)  <sup>[![rss](icon/rss.svg)](https://dev.to/feed/sensiolabs)</sup>
 - [Smile.eu](https://smile.eu/fr-ch/publications-et-evenements/symfonylive-paris-2025-smile-suisse-se-joint-la-communaute-symfony)
 - [Codein.fr/blog](https://www.codein.fr/blog/symfonylive2025)
-- [blog.Eleven-Labs.com](https://blog.eleven-labs.com/fr/symfony-live-2025/)
+- [blog.Eleven-Labs.com](https://blog.eleven-labs.com/fr/symfony-live-2025/)  <sup>[![rss](icon/rss.svg)](https://blog.eleven-labs.com/feed.xml)</sup>
 - [Peaks.fr](https://peaks.fr/symfony-live-paris-2025/)
 - [Best of on YouTube](https://www.youtube.com/watch?v=InaFzhX5AkM)
 
