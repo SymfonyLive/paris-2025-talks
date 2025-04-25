@@ -9,6 +9,18 @@
 > - Social posts during the event: [Bluesky](https://bsky.app/search?q=%23symfony_live+since%3A2025-03-26+until%3A2025-03-30) · [Mastodon](https://mastodon.social/tags/symfony_live) · [Twitter](https://x.com/search?q=(%23symfony_live%20OR%20%40symfonylive)%20until%3A2025-03-30%20since%3A2025-03-26%20-filter%3Areplies&f=live)
 > - [Photos during the event](https://pixi.live/gallery/symfonylive-paris-2025)
 
+#### Blog post & videos about the event
+
+- [JoliCode.com/blog](https://jolicode.com/blog/symfonylive-paris-2025-comme-si-vous-y-etiez)
+- [Les-Tilleuls.coop/blog - Day 1](https://les-tilleuls.coop/blog/le-symfonylive-paris-2025-comme-si-vous-y-etiez-jour-1) & [Day 2](https://les-tilleuls.coop/blog/le-symfonylive-paris-2025-comme-si-vous-y-etiez-jour-2)
+- [ACSEO.fr - Day 1](https://www.acseo.fr/developpement/symfonylive-paris-2025-retour-sur-une-premiere-journee-riche-en-enseignements/) & [Day 2](https://www.acseo.fr/developpement/ce-que-nous-avons-retenu-de-la-deuxieme-journee-de-conferences-du-symfonylive-paris-2025/)
+- [dev.to/SensioLabs](https://dev.to/sensiolabs/symfonylive-paris-2025-ce-quil-faut-retenir-59ia)
+- [Smile.eu](https://smile.eu/fr-ch/publications-et-evenements/symfonylive-paris-2025-smile-suisse-se-joint-la-communaute-symfony)
+- [Codein.fr/blog](https://www.codein.fr/blog/symfonylive2025)
+- [blog.Eleven-Labs.com](https://blog.eleven-labs.com/fr/symfony-live-2025/)
+- [Peaks.fr](https://peaks.fr/symfony-live-paris-2025/)
+- [Best of on YouTube](https://www.youtube.com/watch?v=InaFzhX5AkM)
+
 ---
 
 ## Keynote · Symfony : 20 ans d'évolution vers la simplicité
