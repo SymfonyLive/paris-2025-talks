@@ -14,7 +14,7 @@
 ## Keynote · Symfony : 20 ans d'évolution vers la simplicité
 
 [Slides](https://speakerdeck.com/fabpot/symfony-in-2025-scaling-to-0)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1091)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
@@ -36,9 +36,9 @@ Après avoir parcouru l'historique de quelques années de discussion et de reche
 </dl>
 
 [Slides](https://speakerdeck.com/soyuka/symfony-mapper-component)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1078)  <sup>(behind paywall)</sup>  
 ~~Blog post~~  
-[Pull Request of `symfony/object-mapper`](https://github.com/symfony/symfony/pull/51741) <sup>Merged 🎉</sup>
+[Pull Request of `symfony/object-mapper`](https://github.com/symfony/symfony/pull/51741)  <sup>Merged 🎉</sup>
 
 By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
 💻 on [![github](icon/github.svg) @soyuka](https://github.com/soyuka)  <sup>[💚](https://github.com/sponsors/soyuka)</sup>  
@@ -58,7 +58,7 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 </dl>
 
 [Slides](https://davidbu.ch/slides/2025-03-27-symfony-live-paris-postgres-json.html#1)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1063)  <sup>(behind paywall)</sup>  
 [Blog post](https://davidbu.ch/mann/blog/2025-03-27/symfony-live-paris-postgres-json/)  
 [Exemples and measures: postgres](https://github.com/dbu/postgres-json) / [MySQL](https://github.com/dbu/postgres-json/pull/2)
 
@@ -84,7 +84,7 @@ By [David Buchmann](https://connect.symfony.com/profile/dbu)
 </dl>
 
 [Slides](https://rjanot.github.io/webauthn-sflive2025/)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1068)  <sup>(behind paywall)</sup>  
 ~~Blog post~~  
 [Demo repository](https://github.com/rjanot/webauthn-demo-symfony)
 
@@ -108,8 +108,8 @@ _✍ blog not found_
   Ensuite, nous explorerons l’avenir de Symfony UX en 2025, incluant une ou deux surprises !</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+[Slides](https://speakerdeck.com/smnandre/symfony-ux-bilan-2024-et-perspective-davenir-fr)  
+[Video](https://live.symfony.com/account/replay/video/1067)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Simon André](https://connect.symfony.com/profile/simonandre)  
@@ -133,7 +133,7 @@ _✍ blog not found_
 </dl>
 
 [Slides](https://slides.com/florianbogey/sf-live-roles-permissions)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1070)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Florian Bogey](https://connect.symfony.com/profile/florianlyon)  
@@ -152,7 +152,7 @@ By [Florian Bogey](https://connect.symfony.com/profile/florianlyon)
 </dl>
 
 [Slides](https://jerome.tamarelle.net/slides/2025-03-27-SymfonyLive-Paris-2025-API_Platform_sans_Doctrine.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1079)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)  
@@ -177,7 +177,7 @@ By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)
 </dl>
 
 [Slides](https://speakerdeck.com/dunglas/develop-faster-with-frankenphp)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1064)  <sup>(behind paywall)</sup>  
 [Blog post](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
@@ -198,7 +198,7 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1080)  <sup>(free 🙌)</sup>  
 ~~Blog post~~
 
 By [Laura Durieux](https://connect.symfony.com/profile/devgirl_)  
@@ -222,7 +222,7 @@ By [Laura Durieux](https://connect.symfony.com/profile/devgirl_)
 </dl>
 
 [Slides](https://s.lyrixx.info/async)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1065)  <sup>(behind paywall)</sup>  
 ~~Blog post~~  
 [Demo repository](https://s.lyrixx.info/async-demo)
 
@@ -243,8 +243,8 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
 </dl>
 
 [Slides](https://jolicode.github.io/htmx-conf/)  
-~~Video~~  
-~~Blog post~~  
+[Video](https://live.symfony.com/account/replay/video/1084)  <sup>(behind paywall)</sup>  
+[Blog post](https://damienalexandre.fr/post/parler-dhtmx-a-symfony-live-2025)  
 [Demo repository](https://github.com/jolicode/symfony-htmx-demo)
 
 By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)  
@@ -279,7 +279,7 @@ By [Damien Alexandre](https://connect.symfony.com/profile/damienalexandre)
 </dl>
 
 [Slides](https://jean-beru.github.io/2025_03_sflive_gotenberg)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1082)  <sup>(behind paywall)</sup>  
 [Blog post](https://github.com/StevenRenaux/GotenbergBundle-Article)  
 [Code of `sensiolabs/gotenberg-bundle`](https://github.com/sensiolabs/GotenbergBundle)  
 [Demo repository](https://github.com/StevenRenaux/GotenbergBundle-Article)
@@ -311,7 +311,7 @@ _✍ blog not found_
 </dl>
 
 [Slides](https://speakerdeck.com/tucksaun/tirez-profit-de-messenger-pour-ameliorer-votre-architecture)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1096)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Tugdual Saunier](https://connect.symfony.com/profile/tucksaun)  
@@ -340,7 +340,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1083)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
@@ -355,7 +355,7 @@ By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
 ## Keynote · Les Nouveautés de Symfony 7.3
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1092)  <sup>(behind paywall)</sup>  
 ~~Blog post~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
