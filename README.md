@@ -365,3 +365,159 @@ By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
 · [![bluesky](icon/bluesky.svg) @nicolasgrekas.bsky.social](https://bsky.app/profile/nicolasgrekas.bsky.social)
 · [![mastodon](icon/mastodon.svg) @nicolasgrekas@phpc.social](https://phpc.social/@nicolasgrekas)
 · [![linkedin](icon/linkedin.svg) @nicolasgrekas](https://linkedin.com/in/nicolasgrekas)
+
+---
+
+### Bonus : 8 Lightning Talks
+
+## User-Agent : Plongée dans l'histoire d'un header web mystérieux
+
+<dl>
+  <dt>Description</dt>
+  <dd>Savez-vous ce que raconte votre navigateur aux sites web que vous visitez ? Derrière une ligne de texte étrange se cache une histoire fascinante des débuts d'internet, pleine de rivalités et d'astuces pour que les sites s'affichent correctement sur tous les écrans. Découvrez comment le "User-Agent" a évolué, des premiers navigateurs comme Mosaïque aux géants actuels comme Chrome, en passant par des techniques parfois surprenantes pour assurer la compatibilité.</dd>
+</dl>
+
+~~Slides~~  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 00:22*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Benjamin Clay](https://connect.symfony.com/profile/ternel)  
+💻 on [![github](icon/github.svg) @ternel](https://github.com/ternel)  
+✍ on [🌐 baksla.sh/blog](https://baksla.sh/blog)  
+💬 on [![bluesky](icon/bluesky.svg) @ternel.bsky.social](https://bsky.app/profile/ternel.bsky.social)
+· [![mastodon](icon/mastodon.svg) @ternel@mastodon.social](https://mastodon.social/@ternel)
+· [![twitter](icon/twitter.svg) @ternel](https://x.com/ternel)
+· [![linkedin](icon/linkedin.svg) benjaminclay](https://linkedin.com/in/benjaminclay)
+
+
+## Simplifiez vos formulaires Symfony grâce aux attributs PHP 8
+
+<dl>
+  <dt>Description</dt>
+  <dd>Découvrez comment les attributs PHP 8 peuvent révolutionner la création de formulaires dans Symfony. Oubliez les FormTypes traditionnels et concentrez-vous sur vos DTO : des attributs directement dans vos classes vous permettront de définir et configurer vos formulaires de manière intuitive et concise. Validation,  events, transformers... explorez le potentiel de cette approche pour un développement plus rapide et agréable.</dd>
+</dl>
+
+~~Slides~~  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 04:58*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Benjamin Georgeault](https://connect.symfony.com/profile/WedgeSama)  
+💻 on [![github](icon/github.svg) @wedgesama](https://github.com/wedgesama)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @WedgeSama](https://twitter.com/WedgeSama)
+· [![mastodon](icon/mastodon.svg) @wedgesama@mastodon.social](https://mastodon.social/@wedgesama)
+· [![bluesky](icon/bluesky.svg) @wedgesama.bsky.social](https://bsky.app/profile/wedgesama.bsky.social)
+· [![linkedin](icon/linkedin.svg) benjamin-georgeault-…](https://linkedin.com/in/benjamin-georgeault-67212172)
+
+
+## MCP : Unifier les outils pour les LLM
+
+<dl>
+  <dt>Description</dt>
+  <dd>Démonstration de MCP, un protocole qui permet aux LLM d'interagir avec le monde extérieur en leur fournissant des outils. L'orateur montre comment MCP permet à un LLM de créer un livre dans une base de données et explique le fonctionnement du protocole.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/lyrixx/mcp-symfony-live-paris-2025)  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 12:17*   <sup>(behind paywall)</sup>  
+[Blog post](https://jolicode.com/blog/mcp-the-open-protocol-that-turns-llm-chatbots-into-intelligent-agents)
+
+By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)  
+💻 on [![github](icon/github.svg) @lyrixx](https://github.com/lyrixx)  <sup>[💚](https://github.com/sponsors/lyrixx)</sup>  
+✍ on [🌐 jolicode.com/blog](https://jolicode.com/qui-sommes-nous/equipe/gregoire-pineau)  <sup>[![rss](icon/rss.svg)](https://jolicode.com/feed.rss)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @lyrixx.bsky.social](https://bsky.app/profile/lyrixx.bsky.social)
+· [![twitter](icon/twitter.svg) @lyrixx](https://twitter.com/lyrixx)
+· [![mastodon](icon/mastodon.svg) @lyrixx@mastodon.social](https://mastodon.social/@lyrixx)
+
+
+## Gitingest : Libérez la Puissance des LLM avec Votre Code GitHub
+
+<dl>
+  <dt>Description</dt>
+  <dd>Découvrez Gitingest, l'outil révolutionnaire qui transforme votre code GitHub en un format optimisé pour les LLM. En quelques clics, convertissez vos dépôts en Markdown structuré et générez des prompts intelligents pour une analyse de code, une documentation et une collaboration assistées par IA. Simplifiez l'intégration des LLM dans votre workflow et exploitez leur plein potentiel pour des revues de code automatisées, l'onboarding de nouveaux développeurs et bien plus encore.</dd>
+</dl>
+
+[Slides](https://slides.com/imentroudi/gitingest-exploitez-la-puissance-des-llms-avec-votre-code)  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 16:13*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Imen Ezzine](https://connect.symfony.com/profile/imen-ezzine)  
+💻 on [![github](icon/github.svg) @imenezzine](https://github.com/imenezzine)  
+✍ on [🌐 medium.com/the-sensiolabs-tech-blog](https://medium.com/the-sensiolabs-tech-blog)  <sup>[![rss](icon/rss.svg)](https://medium.com/feed/the-sensiolabs-tech-blog)</sup>  
+💬 on [![twitter](icon/twitter.svg) @imenezzine1](https://twitter.com/imenezzine1)
+· [![linkedin](icon/linkedin.svg) imen-ezzine-…](https://linkedin.com/in/imen-ezzine-09938a45)
+
+
+## ShapeUp : Quand Scrum Devient Triste, l'Histoire de Dave, Alice et Huguette
+
+<dl>
+  <dt>Description</dt>
+  <dd>Dave, Alice et Huguette font du Scrum, mais quelque chose ne va pas. Entre les estimations floues en points et une vélocité capricieuse, ils cherchent une autre voie. Découvrez comment la méthode ShapeUp, adaptée par Monsieur Biz, transforme leur manière de travailler en se concentrant sur des cycles courts et concrets, des "cacahuètes" à construire, pour finalement voir des "feux d'artifice" de satisfaction. Une présentation éclair pour comprendre comment cette approche peut révolutionner le quotidien des équipes web.</dd>
+</dl>
+
+~~Slides~~  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 22:18*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Jacques Bodin-Hullin](https://connect.symfony.com/profile/jacquesbh)  
+💻 on [![github](icon/github.svg) @jacquesbh](https://github.com/jacquesbh)  
+✍ on [🌐 monsieurbiz.com/fr/blog](https://monsieurbiz.com/fr/blog/) & [🌐 jacques.sh](https://jacques.sh)  <sup>[![rss](icon/rss.svg)](https://jacques.sh/atom.xml)</sup>  
+💬 on [![twitter](icon/twitter.svg) @jacquesbh](https://x.com/jacquesbh)
+· [![bluesky](icon/bluesky.svg) @jacquesbh.bsky.social](https://bsky.app/profile/jacquesbh.bsky.social)
+· [![linkedin](icon/linkedin.svg) …-jacques-bodin-hullin-…](https://linkedin.com/in/%F0%9F%A6%84-jacques-bodin-hullin-9a36081a/)
+
+
+## Il y a 20 ans : Retour sur SfContext, le cœur magique de Symfony 1
+
+<dl>
+  <dt>Description</dt>
+  <dd>À l'occasion des 20 ans de Symfony, replongeons-nous dans l'histoire de ce framework en explorant SfContext, une classe centrale de Symfony 1. Découvrez comment ce "singleton" aux multiples facettes permettait d'accéder à tout, de la gestion des formulaires à l'envoi d'emails, et comment son héritage a façonné les  versions actuelles de Symfony.</dd>
+</dl>
+
+~~Slides~~  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 26:04*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Jérémy Romey](https://connect.symfony.com/profile/jeremyfreeagent)  
+💻 on [![github](icon/github.svg) @jeremyFreeAgent](https://github.com/jeremyFreeAgent)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @jeremyFreeAgent](https://twitter.com/jeremyFreeAgent)
+· [![bluesky](icon/bluesky.svg) @jeremyfreeagent.bsky.social](https://bsky.app/profile/jeremyfreeagent.bsky.social)
+· [![linkedin](icon/linkedin.svg) jeremyfreeagent](https://www.linkedin.com/in/jeremyfreeagent)
+
+
+## Flow : Orchestrez vos données visuellement avec PHP !
+
+<dl>
+  <dt>Description</dt>
+  <dd>Découvrez Flow, une librairie PHP innovante pour l'orchestration de données. Basée sur les principes de la programmation fonctionnelle et du Flow-Based Programming, Flow vous permet d'assembler votre code de manière intuitive et d'exploiter la puissance de l'asynchrone pour des traitements de données efficaces.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/matyo91/flow-introduction)  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 30:28*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Mathieu Ledru](https://connect.symfony.com/profile/matyo91)  
+💻 on [![github](icon/github.svg) @matyo91](https://github.com/matyo91)  
+✍ on [🌐 blog.darkwood.com](https://blog.darkwood.com)  <sup>[![rss](icon/rss.svg)](https://feeds.feedburner.com/darkwood-com/blog)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @mtarld.bsky.social](https://bsky.app/profile/mtarld.bsky.social)
+· [![twitter](icon/twitter.svg) @matyo91](https://twitter.com/matyo91)
+· [![linkedin](icon/linkedin.svg) mathieu-ledru](https://linkedin.com/in/mathieu-ledru)
+
+
+## Agents IA génératifs : La révolution 2025
+
+<dl>
+  <dt>Description</dt>
+  <dd>Découvrez comment les nouveaux outils d'IA générative en PHP, comme LLM Chain, Elhant et Neuron, simplifient l'intégration de l'intelligence artificielle dans vos applications. Apprenez comment enrichir les réponses des modèles de langage avec vos propres données grâce au RAG et comment les agents IA, pilotés par le protocole MCP, peuvent interagir avec votre environnement pour automatiser des tâches et transformer votre travail. 2025 sera l'année où ces technologies deviendront incontournables !</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/welcomattic/2025-lannee-des-agents-genia)  
+[Video](https://live.symfony.com/account/replay/video/1122) *starting at 37:32*   <sup>(behind paywall)</sup>  
+~~Blog post~~
+
+By [Mathieu Santostefano](https://connect.symfony.com/profile/welcomattic)  
+💻 on [![github](icon/github.svg) @welcoMattic](https://github.com/welcoMattic)  <sup>[💚](https://github.com/sponsors/welcoMattic)</sup>  
+✍ on [🌐 blog.welcomattic.com](https://blog.welcomattic.com/)  <sup>[![rss](icon/rss.svg)](https://blog.welcomattic.com/index.xml)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @welcomattic.com](https://bsky.app/profile/welcomattic.com)
+· [![mastodon](icon/mastodon.svg) @welcomattic@phpc.social](https://phpc.social/@welcomattic)
+· [![linkedin](icon/linkedin.svg) msantostefano](https://linkedin.com/in/msantostefano)
