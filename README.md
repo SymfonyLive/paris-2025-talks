@@ -11,7 +11,7 @@
 
 ---
 
-## Keynote · Symfony in 2025: Scaling to 0
+## Keynote · Symfony : 20 ans d'évolution vers la simplicité
 
 [Slides](https://speakerdeck.com/fabpot/symfony-in-2025-scaling-to-0)  
 ~~Video~~  
@@ -352,7 +352,7 @@ By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
 
 ---
 
-## Keynote · A year of Symfony! What's New in 7.3?
+## Keynote · Les Nouveautés de Symfony 7.3
 
 ~~Slides~~  
 ~~Video~~  
